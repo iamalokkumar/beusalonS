@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "products": "cream",
+      "price": 1500,
+      "id": 1,
+      "qty": 3
+    },
+    {
+      "products": "facewash",
+      "price": 2000,
+      "id": 2,
+      "qty": 3
+    },
+    {
+      "products": "sampoo",
+      "price": 250,
+      "qty": 2,
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "products": "cream",
+      "price": 1500,
+      "qty": 2,
+      "id": 2
+    },
+    {
+      "products": "cream",
+      "price": 1500,
+      "qty": 1,
+      "id": 3
+    },
+    {
+      "products": "sampoo",
+      "price": 250,
+      "qty": 1,
+      "id": 4
+    },
+    {
+      "products": "cream",
+      "price": 1500,
+      "qty": 1,
+      "id": 5
+    },
+    {
+      "products": "sampoo",
+      "price": 250,
+      "qty": 2,
+      "id": 6
+    }
+  ]
+}
